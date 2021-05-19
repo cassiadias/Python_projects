@@ -1,4 +1,4 @@
-number = vint(input("Type a number: "))
+number = int(input("Type a number: "))
 if number % 2 ==0:
     print("This is a even number.")
 else:
