@@ -10,4 +10,4 @@ elif age <= 12:
 wants_photo = input("Do you want your photo taken? Y or N\n")
 if wants_photo == "Y":
     bill += 3
-print(f"Your final bill is ${bill}\nHave fun!")
+print(f"Your final bill is ${bill}\n Have fun!!")
