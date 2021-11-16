@@ -1,8 +1,8 @@
 print("Welcome to Star rollercoaster!")
 age = int(input("What is your age?\n"))
 if age >= 18:
-    bill = 12
-    print("Youth tickets are 12.")
+    bill = 14
+    print("Youth tickets are 14.")
 elif age <= 12:
     bill = 6
     print("Child tickets are 6.")
