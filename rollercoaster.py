@@ -4,8 +4,8 @@ if age >= 18:
     bill = 14
     print("Youth tickets are 14.")
 elif age <= 12:
-    bill = 6
-    print("Child tickets are 6.")
+    bill = 7
+    print("Child tickets are 7.")
 
 wants_photo = input("Do you want your photo taken? Y or N\n")
 if wants_photo == "Y":
