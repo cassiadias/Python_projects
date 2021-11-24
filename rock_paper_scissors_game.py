@@ -32,4 +32,4 @@ elif user_choice == "2" and computer_choice == "0":
 elif user_choice == "2" and computer_choice == "1":
     print("You won, scissors cuts paper")
 elif computer_choice == user_choice:
-    print("It's a draw ")
+    print("It's a draw")
