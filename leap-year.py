@@ -6,6 +6,6 @@ if year % 4 == 0:
         else:
             print(f"{year} isn\'t leap year.")
     else:
-        print(f"{year} is a leap year.")
+        print(f"{year} is a leap year")
 else:
-    print(f"{year} isn\'t leap year.")
+    print(f"{year} isn\'t leap year")
